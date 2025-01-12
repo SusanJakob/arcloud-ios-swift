@@ -1,4 +1,5 @@
 import Foundation
 
-internal let banubaClientToken: String = <#Place your Face AR token here#>
+internal let banubaClientToken: String = 
+"Qk5CILPAxEo+1XuxQVSoA2Hb1G+BvNBU/SrEh0G49D+HV/RTP4y8kqgujG9CGhBuxI91+JPfQlvHdZRddu6XYzmDN3U2+n/ljjh4HJr1VcqW6O0xjHMhlE0M3AAq0tdZ5FB9RE+1m/1FGFp2lFfQLuYGFnEhhSF739wHv1DnYy135TAY6OV+An76uR3DwEvx+wOxUY0y0Xm9ku1rdjK08smRne5YY0m+UfyV5Res57pjv7ja7sS9uBdKy5rFzFQpxVE9d9xb8ICDOARbpZ2iLHLgfUgBvN3sq9aHgHLChcHk/xuJeszfowIb6rp1pmrFHUAKhvx/pM1UM+tREd5gJrYUkZkcxrN9DoEj1rWnMftFiB9lBVqzMKHxH7YoQ/xBb1k5hkbZjZSxNRsjL2+XAgQmi9XXzql/utkmQbAGuISp8M5O5vG48PPL+gvJwKZsJWyd40fA+5Cx6wF1DH1boiqceLeWy326GYnnwkikPUb5cYfnXEyiMLC/ADWHzYeJYYs0BuTAGUBQDhAmpDR1RRKRRtAutafNqzyrtfXFL+6rxAq+Zv/S4mWKcb4a5zb+lLqUkvfksqpDOQtqcChCZuFhVsN4phyPEHic/qncYbrOmL5uQr/Katr/ofHI35LuXo6dj6EfnobwrdJiIRPc0hE="
 internal let banubaArCloudURL: String = "https://api.arcloud.banuba.net/v1/effects/far_test_v1.2" // Bucket with Demo effects, can be replaced by your own AR Cloud URL
